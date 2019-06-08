@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Growtopia Free Gems/WL/DL/ and More Hack",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -38,14 +38,16 @@
     "siteFonts": [],
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
-    "versionPublish": "4.10.3"
+    "versionPublish": "4.10.3",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Growtopia Hack Generator",
-        "meta_descr": "",
+        "meta_descr": "Welcome to the first real and working Growtopia Hack. These cheats works with all devices and countries, so everyone can generate Gems!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
